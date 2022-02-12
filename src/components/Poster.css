@@ -1,0 +1,24 @@
+.Poster {
+  margin: 20px 0;
+  width: 90vw;
+  margin-left: 40px;
+  display: flex;
+  background-color: rgb(131, 86, 86);
+  padding: 20px 0;
+}
+
+#posone {
+  width: 60%;
+}
+
+#postwo {
+  width: 40%;
+  height: 25%;
+}
+
+@media screen and (max-width: 750px) {
+  .Poster {
+    width: 100vw;
+    margin: 10px 0;
+  }
+}

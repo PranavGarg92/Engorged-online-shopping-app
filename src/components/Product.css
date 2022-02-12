@@ -1,0 +1,26 @@
+.Product-container {
+  flex: 1;
+  margin: 5px;
+  padding: 10px 0;
+  min-width: 280px;
+  height: 350px;
+  background-color: #f5fbfd;
+  border-radius: 10px;
+}
+
+.Product-container:hover {
+  background-color: #d9ecf3;
+}
+
+.product-circle img {
+  height: 300px;
+}
+
+.product-clicks {
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.product-clicks:hover {
+  transform: scale(1.5);
+}

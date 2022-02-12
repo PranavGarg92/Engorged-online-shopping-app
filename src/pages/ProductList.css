@@ -1,0 +1,19 @@
+.ProductList-container {
+  align-items: center;
+}
+
+.ProductsList-title {
+  margin: 20px;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter {
+  margin: 20px;
+}
+
+.filter-text {
+}

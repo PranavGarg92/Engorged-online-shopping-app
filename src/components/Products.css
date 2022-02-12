@@ -1,0 +1,22 @@
+.pro {
+  margin-top: 100px;
+}
+
+.products-heading {
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+
+.products-container {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.products-heading {
+  text-align: left;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: rgb(138, 76, 0);
+}

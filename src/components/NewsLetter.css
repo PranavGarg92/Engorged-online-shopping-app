@@ -1,0 +1,24 @@
+.NewsLetter-Container {
+  background-color: rgb(233, 233, 233);
+  padding: 20px 0 20px 0;
+  margin: 20px 0 20px 0;
+}
+
+.newsletter-input input {
+  width: 40vw;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid rgb(99, 99, 99);
+}
+
+.newsletter-input button {
+  background-color: red;
+  color: white;
+  border: none;
+  height: 25px;
+}
+
+.Newsletter-title {
+  font-size: x-large;
+  font-weight: 100;
+}
